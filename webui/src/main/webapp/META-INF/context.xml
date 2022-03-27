@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Context>
+    <Resource name="jdbc/tennisDS" auth="Container" type="javax.sql.DataSource"
+              initialSize="5" username="coursdb" password="Ronneymar77:" driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/tennis?useSSL=false"/>
+
+</Context>
